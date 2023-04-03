@@ -31,3 +31,5 @@
   - ### Miscellaneous
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    <img src="https://user-images.githubusercontent.com/78126968/229585416-c0a48ba2-8b53-4e75-90cb-f1c7e0473ef3.png"  width="100px">
+
