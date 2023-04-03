@@ -10,8 +10,8 @@
 ## Skills
   - ### IOT and Circuit Design
     ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-    <img src="https://user-images.githubusercontent.com/78126968/229582357-6cd7b777-042d-47e0-8699-825c9802def0.png"  width="10%" height="20%">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg"  width="9%" height="15%">
+    <img src="https://user-images.githubusercontent.com/78126968/229582357-6cd7b777-042d-47e0-8699-825c9802def0.png"  width="80px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg"  width="70px">
   - ### Back-End
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
