@@ -1,5 +1,5 @@
  # Hello, I'm Juan Sebastián 🦦
-### Electronics Engineer and Full-Stack developer!
+### Electronics Engineer and developer!
 
 ## About me
   - 📚 I´m currently studying both, Electronics Engineering and Computer Science, at the Universidad de Los Andes.
