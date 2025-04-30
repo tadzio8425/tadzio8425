@@ -2,11 +2,7 @@
 ### Electronics Engineer and developer!
 
 ## About me
-  - 📚 I´m currently studying both, Electronics Engineering and Computer Science, at the Universidad de Los Andes.
-  - 🔬 My current research topics include **Integrated Circuits** and **Energetic Management for solar vehicles**.
-  - 🌱 I'm currently learning **Angular**, **React-Native** and **TypeScript**.
-  - 📬 Reach me if you want to collaborate on **IOT projects**.
-
+  - 📚 Electronics Engineer currently pursuing an MSc in Automation and Control
 ## Skills
   - ### IOT and Circuit Design
     ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
